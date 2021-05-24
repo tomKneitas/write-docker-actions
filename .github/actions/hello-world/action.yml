@@ -11,7 +11,6 @@ inputs:
   secondGreeting:
     descriptions: "this is a second greeting"
     required: true
-    default: "Dainius"
 
   thirdGreeting:
     descriptions: "this is a third one"
